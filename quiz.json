@@ -1,0 +1,39 @@
+[
+{
+"id": 1,
+"type": "song",
+"question": "What is the title or artist of this track?",
+"youtubeId": "CPLdltN7wgE",
+"answer": "Official Test Video - CPLdltN7wgE"
+},
+{
+"id": 2,
+"type": "buzzer",
+"question": "Which space agency landed the Perseverance rover on Mars in 2021?",
+"imageUrl": "images/mars_rover.jpg",
+"answer": "NASA"
+},
+{
+"id": 3,
+"type": "zoom",
+"question": "What famous landmark is shown in this zoomed-in picture?",
+"imageUrl": "images/eiffel_tower.jpg",
+"answer": "Eiffel Tower (Paris)"
+},
+{
+"id": 4,
+"type": "true_false",
+"question": "True or False: The Great Wall of China is visible from orbit with the naked eye.",
+"assignedTeam": 1,
+"correctAnswer": false,
+"imageUrl": "images/great_wall.jpg",
+"answer": "False (It is generally not visible without aid)"
+},
+{
+"id": 5,
+"type": "song",
+"question": "Name the track or artist playing!",
+"youtubeId": "dQw4w9WgXcQ",
+"answer": "Rick Astley - Never Gonna Give You Up"
+}
+]
