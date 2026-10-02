@@ -24,7 +24,7 @@
     "assignedTeam": 1,
     "correctAnswer": false,
     "answer": "Falsk (Flere planeter har ringe, men Saturns er klart de mest synlige)",
-    "imageUrl": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/960px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "assignedTeam": 1,
     "correctAnswer": true,
     "answer": "Sandt (Deres fingeraftryk kan være overraskende menneskelignende)",
-    "imageUrl": "https://images.unsplash.com/photo-1456926631375-92c8ce872def?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/960px-Koala_climbing_tree.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "assignedTeam": 1,
     "correctAnswer": false,
     "answer": "Falsk (Salt hæver faktisk vandets kogepunkt en lille smule)",
-    "imageUrl": "https://images.unsplash.com/photo-1518117715891-b3b028236c57?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Table_salt_with_salt_shaker_V1.jpg/330px-Table_salt_with_salt_shaker_V1.jpg"
   },
   {
     "id": 6,
@@ -60,7 +60,7 @@
     "assignedTeam": 2,
     "correctAnswer": true,
     "answer": "Sandt (Honning har meget lavt vandindhold og er naturligt konserverende)",
-    "imageUrl": "https://images.unsplash.com/photo-1587049352847-4a222e784d38?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/960px-Runny_hunny.jpg"
   },
   {
     "id": 8,
@@ -114,7 +114,7 @@
     "assignedTeam": 3,
     "correctAnswer": true,
     "answer": "Sandt (Det kaldes Mpemba-effekten)",
-    "imageUrl": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?w=800"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ice_cubes_openphoto.jpg"
   },
   {
     "id": 14,
@@ -132,7 +132,7 @@
     "assignedTeam": 3,
     "correctAnswer": true,
     "answer": "Sandt (Den indeholder kakaosmør, men ikke den mørke kakaomasse)",
-    "imageUrl": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=800"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chopped_white_chocolate_chunks.jpg"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "assignedTeam": 3,
     "correctAnswer": true,
     "answer": "Sandt (Venus roterer ekstremt langsomt om sin egen akse)",
-    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/960px-Venus_from_Mariner_10.jpg"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "assignedTeam": 3,
     "correctAnswer": false,
     "answer": "Falsk (De kan dreje det omkring 270 grader)",
-    "imageUrl": "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Bubo_bubo_sibiricus_-_01.JPG/960px-Bubo_bubo_sibiricus_-_01.JPG"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "assignedTeam": 3,
     "correctAnswer": true,
     "answer": "Sandt (Bier kan lære at genkende simple ansigtsmønstre)",
-    "imageUrl": "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Tetragonula_carbonaria_%2814521993792%29.jpg/960px-Tetragonula_carbonaria_%2814521993792%29.jpg"
   },
   {
     "id": 19,
@@ -186,7 +186,7 @@
     "assignedTeam": 4,
     "correctAnswer": false,
     "answer": "Falsk (Farven kommer fra pigmenter i deres føde)",
-    "imageUrl": "https://images.unsplash.com/photo-1470246973918-29a93221c455?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Flamingos_Laguna_Colorada.jpg/960px-Flamingos_Laguna_Colorada.jpg"
   },
   {
     "id": 22,
@@ -213,7 +213,7 @@
     "assignedTeam": 4,
     "correctAnswer": false,
     "answer": "Falsk (Nogle snegle kan regenerere kropsdele, men ikke overleve at blive skåret i to)",
-    "imageUrl": "https://images.unsplash.com/photo-1535083783855-76ae62b2914e?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Snail.jpg/960px-Snail.jpg"
   },
   {
     "id": 25,
@@ -387,14 +387,14 @@
     "id": 49,
     "type": "zoom",
     "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?w=800",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/1x3_grey_Lego_brick.jpg/330px-1x3_grey_Lego_brick.jpg",
     "answer": "LEGO-klods"
   },
   {
     "id": 50,
     "type": "zoom",
     "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=800",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mickey_Mouse_%28poster_version%29.svg/960px-Mickey_Mouse_%28poster_version%29.svg.png",
     "answer": "Mickey Mouse"
   },
   {
@@ -415,28 +415,28 @@
     "id": 53,
     "type": "zoom",
     "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=800",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Daniel_Radcliffe_as_Harry_Potter.jpg",
     "answer": "Harry Potter"
   },
   {
     "id": 54,
     "type": "zoom",
     "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Toblerone_3362.jpg/960px-Toblerone_3362.jpg",
     "answer": "Toblerone"
   },
   {
     "id": 55,
     "type": "zoom",
     "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1513622470522-26c3c8a854bc?w=800",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/960px-Flag_of_Denmark.svg.png",
     "answer": "Dannebrog"
   },
   {
     "id": 56,
     "type": "zoom",
     "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1591994843349-f415893b3a6b?w=800",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg",
     "answer": "Rubiks Cube"
   },
   {
@@ -457,14 +457,14 @@
     "id": 59,
     "type": "zoom",
     "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?w=800",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Golfball.jpg/960px-Golfball.jpg",
     "answer": "Golfbold"
   },
   {
     "id": 60,
     "type": "zoom",
     "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=800",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Oreo-Two-Cookies.png/960px-Oreo-Two-Cookies.png",
     "answer": "Oreo"
   },
   {
@@ -556,7 +556,7 @@
     "type": "buzzer",
     "question": "Hvad hedder hovedstaden i Australien?",
     "answer": "Canberra",
-    "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/960px-Canberra_panorama_from_Mount_Ainslie.jpg"
   },
   {
     "id": 74,
@@ -577,7 +577,7 @@
     "type": "buzzer",
     "question": "Hvem skrev Harry Potter-bøgerne?",
     "answer": "J.K. Rowling",
-    "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Harry_Potter_logo.svg/960px-Harry_Potter_logo.svg.png"
   },
   {
     "id": 77,
@@ -598,28 +598,28 @@
     "type": "buzzer",
     "question": "Hvad hedder den længste flod i Danmark?",
     "answer": "Gudenåen",
-    "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Gudenaaen.jpg"
   },
   {
     "id": 80,
     "type": "buzzer",
     "question": "Hvilket land har byen Dubrovnik, som blandt andet blev brugt som location i Game of Thrones?",
     "answer": "Kroatien",
-    "imageUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg/960px-The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg"
   },
   {
     "id": 81,
     "type": "buzzer",
     "question": "Hvilket år faldt Berlinmuren?",
     "answer": "1989",
-    "imageUrl": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/960px-Berlinermauer.jpg"
   },
   {
     "id": 82,
     "type": "buzzer",
     "question": "Hvem malede Skriget?",
     "answer": "Edvard Munch",
-    "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/960px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg"
   },
   {
     "id": 83,
@@ -633,14 +633,14 @@
     "type": "buzzer",
     "question": "Hvor mange spillere er der på banen for ét fodboldhold?",
     "answer": "11",
-    "imageUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg"
   },
   {
     "id": 85,
     "type": "buzzer",
     "question": "Hvilken planet har det største antal kendte måner?",
     "answer": "Saturn",
-    "imageUrl": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/960px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png"
   },
   {
     "id": 86,
@@ -661,49 +661,49 @@
     "type": "buzzer",
     "question": "Hvilken ø er verdens største, hvis Australien regnes som et kontinent?",
     "answer": "Grønland",
-    "imageUrl": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/960px-Flag_of_Greenland.svg.png"
   },
   {
     "id": 89,
     "type": "buzzer",
     "question": "Hvilken italiensk by er kendt for sine kanaler og gondoler?",
     "answer": "Venedig",
-    "imageUrl": "https://images.unsplash.com/photo-1514896856529-1f25608b8b98?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/960px-Venezia_aerial_view.jpg"
   },
   {
     "id": 90,
     "type": "buzzer",
     "question": "Hvad er verdens største pattedyr?",
     "answer": "Blåhvalen",
-    "imageUrl": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/960px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"
   },
   {
     "id": 91,
     "type": "buzzer",
     "question": "Hvad hedder hovedstaden i Canada?",
     "answer": "Ottawa",
-    "imageUrl": "https://images.unsplash.com/photo-1503614472328-9f3f17bc1645?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Parliament-Ottawa.jpg/960px-Parliament-Ottawa.jpg"
   },
   {
     "id": 92,
     "type": "buzzer",
     "question": "Hvilket metal er det primære metal i en almindelig sodavandsdåse?",
     "answer": "Aluminium",
-    "imageUrl": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Drinking_can_ring-pull_tab.jpg/330px-Drinking_can_ring-pull_tab.jpg"
   },
   {
     "id": 93,
     "type": "buzzer",
     "question": "Hvad kaldes den proces, hvor planter omdanner lysenergi til kemisk energi?",
     "answer": "Fotosyntese",
-    "imageUrl": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Green_leaf_with_sunlight.jpg/330px-Green_leaf_with_sunlight.jpg"
   },
   {
     "id": 94,
     "type": "buzzer",
     "question": "Hvilken dansk konge var konge fra 1157 til 1182 og forbindes blandt andet med opførelsen af Valdemarsmuren?",
     "answer": "Valdemar den Store",
-    "imageUrl": "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bracteate%2C_1157%2C_comemorating_wedding_of_king_Valdemar_%28the_Great%29_%26_queen_Sophia_%28of_Minsk%29_of_Denmark.jpg/330px-Bracteate%2C_1157%2C_comemorating_wedding_of_king_Valdemar_%28the_Great%29_%26_queen_Sophia_%28of_Minsk%29_of_Denmark.jpg"
   },
   {
     "id": 95,
@@ -724,7 +724,7 @@
     "type": "buzzer",
     "question": "Hvilket land har verdens længste kystlinje?",
     "answer": "Canada",
-    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Coastline_St_John_Newfoundland_%2841321591262%29.jpg/330px-Coastline_St_John_Newfoundland_%2841321591262%29.jpg"
   },
   {
     "id": 98,
@@ -738,27 +738,27 @@
     "type": "buzzer",
     "question": "Hvilken planet har en rotation, der varer længere end dens år?",
     "answer": "Venus",
-    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/960px-Venus_from_Mariner_10.jpg"
   },
   {
     "id": 100,
     "type": "buzzer",
     "question": "Hvor mange knogler har et voksent menneske normalt?",
     "answer": "206",
-    "imageUrl": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Human-Skeleton.jpg/330px-Human-Skeleton.jpg"
   },
   {
     "id": 101,
     "type": "buzzer",
     "question": "Hvilket pattedyr er det eneste, der kan flyve aktivt?",
     "answer": "Flagermus",
-    "imageUrl": "https://images.unsplash.com/photo-1534188752323-400477f7227d?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Big-eared-townsend-fledermaus.jpg/330px-Big-eared-townsend-fledermaus.jpg"
   },
   {
     "id": 102,
     "type": "buzzer",
     "question": "Hvilket land har flest pyramider i verden?",
     "answer": "Sudan",
-    "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800"
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sudan_Meroe_Pyramids_2001.JPG/330px-Sudan_Meroe_Pyramids_2001.JPG"
   }
 ]
