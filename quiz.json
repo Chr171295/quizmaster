@@ -450,7 +450,7 @@
 "id": 58,
 "type": "zoom",
 "question": "Hvad er der afbilledet på dette zoomebillede?",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+"imageUrl": "https://cdn.abcotvs.com/dip/images/17466821_MCD_2.jpg",
 "answer": "McDonald's"
 },
 {
@@ -752,7 +752,7 @@
 "type": "buzzer",
 "question": "Hvilket pattedyr er det eneste, der kan flyve aktivt?",
 "answer": "Flagermus",
-"imageUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800"
+"imageUrl": "https://s3.animalia.bio/animals/photos/full/original/ostrich-whipsnade-zoo-09-june-2012.webp"
 },
 {
 "id": 102,
