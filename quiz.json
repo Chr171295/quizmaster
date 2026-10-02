@@ -24,7 +24,7 @@
 "assignedTeam": 1,
 "correctAnswer": false,
 "answer": "Falsk (Flere planeter har ringe, men Saturns er klart de mest synlige)",
-"imageUrl": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800"
+"imageUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=800"
 },
 {
 "id": 4,
@@ -141,7 +141,7 @@
 "assignedTeam": 3,
 "correctAnswer": true,
 "answer": "Sandt (Venus roterer ekstremt langsomt om sin egen akse)",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Venus-real_color.jpg/800px-Venus-real_color.jpg"
+"imageUrl": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=800"
 },
 {
 "id": 17,
@@ -570,7 +570,7 @@
 "type": "buzzer",
 "question": "Hvilket grundstof har det kemiske symbol Au?",
 "answer": "Guld",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gold_bars.jpg/800px-Gold_bars.jpg"
+"imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800"
 },
 {
 "id": 76,
@@ -591,7 +591,7 @@
 "type": "buzzer",
 "question": "Hvilket land har flest indbyggere i verden?",
 "answer": "Indien",
-"imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800"
+"imageUrl": "https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?w=800"
 },
 {
 "id": 79,
@@ -626,7 +626,7 @@
 "type": "buzzer",
 "question": "Hvad hedder verdens mindste land?",
 "answer": "Vatikanstaten",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/St_Peter%27s_Square%2C_Vatican_City-April_2007.jpg/800px-St_Peter%27s_Square%2C_Vatican_City-April_2007.jpg"
+"imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800"
 },
 {
 "id": 84,
@@ -640,7 +640,7 @@
 "type": "buzzer",
 "question": "Hvilken planet har det største antal kendte måner?",
 "answer": "Saturn",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/800px-Saturn_during_Equinox.jpg"
+"imageUrl": "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=800"
 },
 {
 "id": 86,
@@ -661,21 +661,21 @@
 "type": "buzzer",
 "question": "Hvilken ø er verdens største, hvis Australien regnes som et kontinent?",
 "answer": "Grønland",
-"imageUrl": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?w=800"
+"imageUrl": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=800"
 },
 {
 "id": 89,
 "type": "buzzer",
 "question": "Hvilken italiensk by er kendt for sine kanaler og gondoler?",
 "answer": "Venedig",
-"imageUrl": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=800"
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/800px-Flag_of_Italy.svg.png"
 },
 {
 "id": 90,
 "type": "buzzer",
 "question": "Hvad er verdens største pattedyr?",
 "answer": "Blåhvalen",
-"imageUrl": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=800"
+"imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800"
 },
 {
 "id": 91,
@@ -738,7 +738,7 @@
 "type": "buzzer",
 "question": "Hvilken planet har en rotation, der varer længere end dens år?",
 "answer": "Venus",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Venus_globe-large.jpg/800px-Venus_globe-large.jpg"
+"imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800"
 },
 {
 "id": 100,
