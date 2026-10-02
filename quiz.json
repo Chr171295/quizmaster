@@ -1,764 +1,764 @@
 [
-  {
-    "id": 1,
-    "type": "true_false",
-    "question": "Blæksprutter har tre hjerter.",
-    "assignedTeam": 1,
-    "correctAnswer": true,
-    "answer": "Sandt (To hjerter pumper blod til gællerne, mens ét pumper blodet rundt i kroppen)",
-    "imageUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?w=800"
-  },
-  {
-    "id": 2,
-    "type": "true_false",
-    "question": "Bananer vokser på træer.",
-    "assignedTeam": 1,
-    "correctAnswer": false,
-    "answer": "Falsk (Bananplanten er faktisk en kæmpe urt, ikke et træ)",
-    "imageUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?w=800"
-  },
-  {
-    "id": 3,
-    "type": "true_false",
-    "question": "Saturn er den eneste planet i vores solsystem med ringe.",
-    "assignedTeam": 1,
-    "correctAnswer": false,
-    "answer": "Falsk (Flere planeter har ringe, men Saturns er klart de mest synlige)",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/960px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png"
-  },
-  {
-    "id": 4,
-    "type": "true_false",
-    "question": "Koalaer har fingeraftryk, der kan ligne menneskers.",
-    "assignedTeam": 1,
-    "correctAnswer": true,
-    "answer": "Sandt (Deres fingeraftryk kan være overraskende menneskelignende)",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/960px-Koala_climbing_tree.jpg"
-  },
-  {
-    "id": 5,
-    "type": "true_false",
-    "question": "Salt kan få vand til at koge ved en lavere temperatur.",
-    "assignedTeam": 1,
-    "correctAnswer": false,
-    "answer": "Falsk (Salt hæver faktisk vandets kogepunkt en lille smule)",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Table_salt_with_salt_shaker_V1.jpg/330px-Table_salt_with_salt_shaker_V1.jpg"
-  },
-  {
-    "id": 6,
-    "type": "true_false",
-    "question": "Hajer eksisterede før træer.",
-    "assignedTeam": 1,
-    "correctAnswer": true,
-    "answer": "Sandt (De første hajlignende dyr fandtes millioner af år før de første træer)",
-    "imageUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?w=800"
-  },
-  {
-    "id": 7,
-    "type": "true_false",
-    "question": "Honning kan holde sig spiselig i ekstremt lang tid, hvis den opbevares korrekt.",
-    "assignedTeam": 2,
-    "correctAnswer": true,
-    "answer": "Sandt (Honning har meget lavt vandindhold og er naturligt konserverende)",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/960px-Runny_hunny.jpg"
-  },
-  {
-    "id": 8,
-    "type": "true_false",
-    "question": "Alle pingviner lever på Antarktis.",
-    "assignedTeam": 2,
-    "correctAnswer": false,
-    "answer": "Falsk (Pingviner lever flere steder på den sydlige halvkugle)",
-    "imageUrl": "https://images.unsplash.com/photo-1598439210625-5067c578f3f6?w=800"
-  },
-  {
-    "id": 9,
-    "type": "true_false",
-    "question": "Mennesker kan genkende flere tusinde forskellige lugte.",
-    "assignedTeam": 2,
-    "correctAnswer": true,
-    "answer": "Sandt (Lugtesansen kan skelne mellem et meget stort antal forskellige dufte)",
-    "imageUrl": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800"
-  },
-  {
-    "id": 10,
-    "type": "true_false",
-    "question": "Afrika er mindre end Europa.",
-    "assignedTeam": 2,
-    "correctAnswer": false,
-    "answer": "Falsk (Afrika er mere end tre gange så stort som Europa)",
-    "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800"
-  },
-  {
-    "id": 11,
-    "type": "true_false",
-    "question": "Gulerødder var oprindeligt oftest lilla.",
-    "assignedTeam": 2,
-    "correctAnswer": true,
-    "answer": "Sandt (Lilla gulerødder var almindelige før de orange sorter blev udbredt)",
-    "imageUrl": "https://images.unsplash.com/photo-1447175008436-054170c2e979?w=800"
-  },
-  {
-    "id": 12,
-    "type": "true_false",
-    "question": "En giraf kan gå længere uden vand end en kamel.",
-    "assignedTeam": 2,
-    "correctAnswer": true,
-    "answer": "Sandt (Giraffer kan klare lange perioder uden direkte adgang til vand)",
-    "imageUrl": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=800"
-  },
-  {
-    "id": 13,
-    "type": "true_false",
-    "question": "Varmt vand kan i nogle situationer fryse hurtigere end koldt vand.",
-    "assignedTeam": 3,
-    "correctAnswer": true,
-    "answer": "Sandt (Det kaldes Mpemba-effekten)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ice_cubes_openphoto.jpg"
-  },
-  {
-    "id": 14,
-    "type": "true_false",
-    "question": "Elefanter er de eneste dyr, der ikke kan hoppe.",
-    "assignedTeam": 3,
-    "correctAnswer": false,
-    "answer": "Falsk (Flere dyr kan ikke hoppe, blandt andet flodheste)",
-    "imageUrl": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800"
-  },
-  {
-    "id": 15,
-    "type": "true_false",
-    "question": "Hvid chokolade indeholder ikke kakaomasse.",
-    "assignedTeam": 3,
-    "correctAnswer": true,
-    "answer": "Sandt (Den indeholder kakaosmør, men ikke den mørke kakaomasse)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chopped_white_chocolate_chunks.jpg"
-  },
-  {
-    "id": 16,
-    "type": "true_false",
-    "question": "Et døgn på Venus er længere end et år på Venus.",
-    "assignedTeam": 3,
-    "correctAnswer": true,
-    "answer": "Sandt (Venus roterer ekstremt langsomt om sin egen akse)",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/960px-Venus_from_Mariner_10.jpg"
-  },
-  {
-    "id": 17,
-    "type": "true_false",
-    "question": "Ugler kan dreje hovedet 360 grader.",
-    "assignedTeam": 3,
-    "correctAnswer": false,
-    "answer": "Falsk (De kan dreje det omkring 270 grader)",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Bubo_bubo_sibiricus_-_01.JPG/960px-Bubo_bubo_sibiricus_-_01.JPG"
-  },
-  {
-    "id": 18,
-    "type": "true_false",
-    "question": "Bier kan genkende menneskeansigter.",
-    "assignedTeam": 3,
-    "correctAnswer": true,
-    "answer": "Sandt (Bier kan lære at genkende simple ansigtsmønstre)",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Tetragonula_carbonaria_%2814521993792%29.jpg/960px-Tetragonula_carbonaria_%2814521993792%29.jpg"
-  },
-  {
-    "id": 19,
-    "type": "true_false",
-    "question": "Hjernen kan ikke selv føle smerte.",
-    "assignedTeam": 4,
-    "correctAnswer": true,
-    "answer": "Sandt (Selve hjernevævet har ikke smertereceptorer)",
-    "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800"
-  },
-  {
-    "id": 20,
-    "type": "true_false",
-    "question": "Ananas vokser på træer.",
-    "assignedTeam": 4,
-    "correctAnswer": false,
-    "answer": "Falsk (Ananas vokser som en plante tæt ved jorden)",
-    "imageUrl": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?w=800"
-  },
-  {
-    "id": 21,
-    "type": "true_false",
-    "question": "Flamingoer er naturally lyserøde.",
-    "assignedTeam": 4,
-    "correctAnswer": false,
-    "answer": "Falsk (Farven kommer fra pigmenter i deres føde)",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Flamingos_Laguna_Colorada.jpg/960px-Flamingos_Laguna_Colorada.jpg"
-  },
-  {
-    "id": 22,
-    "type": "true_false",
-    "question": "Koffein findes naturally i kaffe, te og kakao.",
-    "assignedTeam": 4,
-    "correctAnswer": true,
-    "answer": "Sandt (Alle tre indeholder koffein naturally)",
-    "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800"
-  },
-  {
-    "id": 23,
-    "type": "true_false",
-    "question": "Stillehavet er større end alle verdens kontinenter tilsammen.",
-    "assignedTeam": 4,
-    "correctAnswer": true,
-    "answer": "Sandt (Stillehavet dækker et enormt areal)",
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
-  },
-  {
-    "id": 24,
-    "type": "true_false",
-    "question": "En snegl kan overleve at blive skåret over på midten.",
-    "assignedTeam": 4,
-    "correctAnswer": false,
-    "answer": "Falsk (Nogle snegle kan regenerere kropsdele, men ikke overleve at blive skåret i to)",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Snail.jpg/960px-Snail.jpg"
-  },
-  {
-    "id": 25,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "IcrbM1l_BoI",
-    "answer": "Avicii - Wake Me Up"
-  },
-  {
-    "id": 26,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "XEjLoHdbVeE",
-    "answer": "ABBA - Gimme! Gimme! Gimme!"
-  },
-  {
-    "id": 27,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "SHuWj6ycquQ",
-    "answer": "Medina - Kun for mig"
-  },
-  {
-    "id": 28,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "yVLRhZiZ5Wc",
-    "answer": "The Killers - Mr. Brightside"
-  },
-  {
-    "id": 29,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "5io69gNOTPk",
-    "answer": "Rihanna - Umbrella"
-  },
-  {
-    "id": 30,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "UxP58lcgvvc",
-    "answer": "TV-2 - De første kærester på månen"
-  },
-  {
-    "id": 31,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "LOZuxwVk7TU",
-    "answer": "Britney Spears - Toxic"
-  },
-  {
-    "id": 32,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "LHCob76kigA",
-    "answer": "Lukas Graham - 7 Years"
-  },
-  {
-    "id": 33,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "6M6samPEMpM",
-    "answer": "Backstreet Boys - Everybody"
-  },
-  {
-    "id": 34,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "ezFsAWK_HF8",
-    "answer": "Tobias Rahim - Mucki Bar"
-  },
-  {
-    "id": 35,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "lDK9QqIzhwk",
-    "answer": "Bon Jovi - Livin' on a Prayer"
-  },
-  {
-    "id": 36,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "WUcXQ--yGWQ",
-    "answer": "MØ - Final Song"
-  },
-  {
-    "id": 37,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "4NRXx6U8ABQ",
-    "answer": "The Weeknd - Blinding Lights"
-  },
-  {
-    "id": 38,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "ZyhrYis509A",
-    "answer": "Aqua - Barbie Girl"
-  },
-  {
-    "id": 39,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "HgzGwKwLmgM",
-    "answer": "Queen - Don't Stop Me Now"
-  },
-  {
-    "id": 40,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "V324KhfzQ7M",
-    "answer": "Thomas Helmig - Malaga"
-  },
-  {
-    "id": 41,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "bESGLojNYSo",
-    "answer": "Lady Gaga - Poker Face"
-  },
-  {
-    "id": 42,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "YPV8LqSRSDg",
-    "answer": "Nik & Jay - Hot!"
-  },
-  {
-    "id": 43,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "dvgZkm1xWPE",
-    "answer": "Coldplay - Viva La Vida"
-  },
-  {
-    "id": 44,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "ZJL4UGSbeFg",
-    "answer": "Shania Twain - Man! I Feel Like a Woman!"
-  },
-  {
-    "id": 45,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "OlXY0AJBtio",
-    "answer": "Kim Larsen - Papirsklip"
-  },
-  {
-    "id": 46,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "TUVcZfQe-Kw",
-    "answer": "Dua Lipa - Levitating"
-  },
-  {
-    "id": 47,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "QFtnV6pMqvA",
-    "answer": "Rasmus Seebach - Natteravn"
-  },
-  {
-    "id": 48,
-    "type": "song",
-    "question": "Hvad er titlen og kunstneren på denne sang?",
-    "youtubeId": "eH3giaIzONA",
-    "answer": "Whitney Houston - I Wanna Dance with Somebody"
-  },
-  {
-    "id": 49,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/1x3_grey_Lego_brick.jpg/330px-1x3_grey_Lego_brick.jpg",
-    "answer": "LEGO-klods"
-  },
-  {
-    "id": 50,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mickey_Mouse_%28poster_version%29.svg/960px-Mickey_Mouse_%28poster_version%29.svg.png",
-    "answer": "Mickey Mouse"
-  },
-  {
-    "id": 51,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=800",
-    "answer": "Coca-Cola"
-  },
-  {
-    "id": 52,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?w=800",
-    "answer": "Eiffeltårnet"
-  },
-  {
-    "id": 53,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Daniel_Radcliffe_as_Harry_Potter.jpg",
-    "answer": "Harry Potter"
-  },
-  {
-    "id": 54,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Toblerone_3362.jpg/960px-Toblerone_3362.jpg",
-    "answer": "Toblerone"
-  },
-  {
-    "id": 55,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/960px-Flag_of_Denmark.svg.png",
-    "answer": "Dannebrog"
-  },
-  {
-    "id": 56,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg",
-    "answer": "Rubiks Cube"
-  },
-  {
-    "id": 57,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=800",
-    "answer": "iPhone"
-  },
-  {
-    "id": 58,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://images.unsplash.com/photo-1552895638-f7fe08d2f7d5?w=800",
-    "answer": "McDonald's"
-  },
-  {
-    "id": 59,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Golfball.jpg/960px-Golfball.jpg",
-    "answer": "Golfbold"
-  },
-  {
-    "id": 60,
-    "type": "zoom",
-    "question": "Hvad er der afbilledet på dette zoomebillede?",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Oreo-Two-Cookies.png/960px-Oreo-Two-Cookies.png",
-    "answer": "Oreo"
-  },
-  {
-    "id": 61,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_titanic.jpg",
-    "answer": "Titanic"
-  },
-  {
-    "id": 62,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_olsen_banden.jpg",
-    "answer": "Olsen-banden"
-  },
-  {
-    "id": 63,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_grease.jpg",
-    "answer": "Grease"
-  },
-  {
-    "id": 64,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_jurassic_park.jpg",
-    "answer": "Jurassic Park"
-  },
-  {
-    "id": 65,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_home_alone.jpg",
-    "answer": "Alene hjemme"
-  },
-  {
-    "id": 66,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_bridget_jones.jpg",
-    "answer": "Bridget Jones's Diary"
-  },
-  {
-    "id": 67,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_charlie_chocolate.jpg",
-    "answer": "Charlie og chokoladefabrikken"
-  },
-  {
-    "id": 68,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_barbie.jpg",
-    "answer": "Barbie"
-  },
-  {
-    "id": 69,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_mamma_mia.jpg",
-    "answer": "Mamma Mia!"
-  },
-  {
-    "id": 70,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_pretty_woman.jpg",
-    "answer": "Pretty Woman"
-  },
-  {
-    "id": 71,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_kaerlighed_ved_foerste_hik.jpg",
-    "answer": "Kærlighed ved første hik"
-  },
-  {
-    "id": 72,
-    "type": "buzzer",
-    "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-    "imageUrl": "images/ai_movie_harry_potter_1.jpg",
-    "answer": "Harry Potter og De Vises Sten"
-  },
-  {
-    "id": 73,
-    "type": "buzzer",
-    "question": "Hvad hedder hovedstaden i Australien?",
-    "answer": "Canberra",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/960px-Canberra_panorama_from_Mount_Ainslie.jpg"
-  },
-  {
-    "id": 74,
-    "type": "buzzer",
-    "question": "Hvor mange tænder har et voksent menneske normalt?",
-    "answer": "32",
-    "imageUrl": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800"
-  },
-  {
-    "id": 75,
-    "type": "buzzer",
-    "question": "Hvilket grundstof har det kemiske symbol Au?",
-    "answer": "Guld",
-    "imageUrl": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=800"
-  },
-  {
-    "id": 76,
-    "type": "buzzer",
-    "question": "Hvem skrev Harry Potter-bøgerne?",
-    "answer": "J.K. Rowling",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Harry_Potter_logo.svg/960px-Harry_Potter_logo.svg.png"
-  },
-  {
-    "id": 77,
-    "type": "buzzer",
-    "question": "Hvilket land er kendt for pyramiderne i Giza?",
-    "answer": "Egypten",
-    "imageUrl": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?w=800"
-  },
-  {
-    "id": 78,
-    "type": "buzzer",
-    "question": "Hvilket land har flest indbyggere i verden?",
-    "answer": "Indien",
-    "imageUrl": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800"
-  },
-  {
-    "id": 79,
-    "type": "buzzer",
-    "question": "Hvad hedder den længste flod i Danmark?",
-    "answer": "Gudenåen",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Gudenaaen.jpg"
-  },
-  {
-    "id": 80,
-    "type": "buzzer",
-    "question": "Hvilket land har byen Dubrovnik, som blandt andet blev brugt som location i Game of Thrones?",
-    "answer": "Kroatien",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg/960px-The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg"
-  },
-  {
-    "id": 81,
-    "type": "buzzer",
-    "question": "Hvilket år faldt Berlinmuren?",
-    "answer": "1989",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/960px-Berlinermauer.jpg"
-  },
-  {
-    "id": 82,
-    "type": "buzzer",
-    "question": "Hvem malede Skriget?",
-    "answer": "Edvard Munch",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/960px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg"
-  },
-  {
-    "id": 83,
-    "type": "buzzer",
-    "question": "Hvad hedder verdens mindste land?",
-    "answer": "Vatikanstaten",
-    "imageUrl": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=800"
-  },
-  {
-    "id": 84,
-    "type": "buzzer",
-    "question": "Hvor mange spillere er der på banen for ét fodboldhold?",
-    "answer": "11",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg"
-  },
-  {
-    "id": 85,
-    "type": "buzzer",
-    "question": "Hvilken planet har det største antal kendte måner?",
-    "answer": "Saturn",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/960px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png"
-  },
-  {
-    "id": 86,
-    "type": "buzzer",
-    "question": "Hvad hedder den græske gud for havet?",
-    "answer": "Poseidon",
-    "imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800"
-  },
-  {
-    "id": 87,
-    "type": "buzzer",
-    "question": "Hvilket år landede mennesket første gang på Månen?",
-    "answer": "1969",
-    "imageUrl": "https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?w=800"
-  },
-  {
-    "id": 88,
-    "type": "buzzer",
-    "question": "Hvilken ø er verdens største, hvis Australien regnes som et kontinent?",
-    "answer": "Grønland",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/960px-Flag_of_Greenland.svg.png"
-  },
-  {
-    "id": 89,
-    "type": "buzzer",
-    "question": "Hvilken italiensk by er kendt for sine kanaler og gondoler?",
-    "answer": "Venedig",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/960px-Venezia_aerial_view.jpg"
-  },
-  {
-    "id": 90,
-    "type": "buzzer",
-    "question": "Hvad er verdens største pattedyr?",
-    "answer": "Blåhvalen",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/960px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"
-  },
-  {
-    "id": 91,
-    "type": "buzzer",
-    "question": "Hvad hedder hovedstaden i Canada?",
-    "answer": "Ottawa",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Parliament-Ottawa.jpg/960px-Parliament-Ottawa.jpg"
-  },
-  {
-    "id": 92,
-    "type": "buzzer",
-    "question": "Hvilket metal er det primære metal i en almindelig sodavandsdåse?",
-    "answer": "Aluminium",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Drinking_can_ring-pull_tab.jpg/330px-Drinking_can_ring-pull_tab.jpg"
-  },
-  {
-    "id": 93,
-    "type": "buzzer",
-    "question": "Hvad kaldes den proces, hvor planter omdanner lysenergi til kemisk energi?",
-    "answer": "Fotosyntese",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Green_leaf_with_sunlight.jpg/330px-Green_leaf_with_sunlight.jpg"
-  },
-  {
-    "id": 94,
-    "type": "buzzer",
-    "question": "Hvilken dansk konge var konge fra 1157 til 1182 og forbindes blandt andet med opførelsen af Valdemarsmuren?",
-    "answer": "Valdemar den Store",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bracteate%2C_1157%2C_comemorating_wedding_of_king_Valdemar_%28the_Great%29_%26_queen_Sophia_%28of_Minsk%29_of_Denmark.jpg/330px-Bracteate%2C_1157%2C_comemorating_wedding_of_king_Valdemar_%28the_Great%29_%26_queen_Sophia_%28of_Minsk%29_of_Denmark.jpg"
-  },
-  {
-    "id": 95,
-    "type": "buzzer",
-    "question": "I hvilket årti blev internettet gjort offentligt tilgængeligt i sin moderne form?",
-    "answer": "1990'erne",
-    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800"
-  },
-  {
-    "id": 96,
-    "type": "buzzer",
-    "question": "Hvilket grundstof findes der mest af i universet?",
-    "answer": "Brint",
-    "imageUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=800"
-  },
-  {
-    "id": 97,
-    "type": "buzzer",
-    "question": "Hvilket land har verdens længste kystlinje?",
-    "answer": "Canada",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Coastline_St_John_Newfoundland_%2841321591262%29.jpg/330px-Coastline_St_John_Newfoundland_%2841321591262%29.jpg"
-  },
-  {
-    "id": 98,
-    "type": "buzzer",
-    "question": "Hvilken film vandt Oscar for bedste film ved Oscar-uddelingen i 1998?",
-    "answer": "Titanic",
-    "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800"
-  },
-  {
-    "id": 99,
-    "type": "buzzer",
-    "question": "Hvilken planet har en rotation, der varer længere end dens år?",
-    "answer": "Venus",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/960px-Venus_from_Mariner_10.jpg"
-  },
-  {
-    "id": 100,
-    "type": "buzzer",
-    "question": "Hvor mange knogler har et voksent menneske normalt?",
-    "answer": "206",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Human-Skeleton.jpg/330px-Human-Skeleton.jpg"
-  },
-  {
-    "id": 101,
-    "type": "buzzer",
-    "question": "Hvilket pattedyr er det eneste, der kan flyve aktivt?",
-    "answer": "Flagermus",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Big-eared-townsend-fledermaus.jpg/330px-Big-eared-townsend-fledermaus.jpg"
-  },
-  {
-    "id": 102,
-    "type": "buzzer",
-    "question": "Hvilket land har flest pyramider i verden?",
-    "answer": "Sudan",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sudan_Meroe_Pyramids_2001.JPG/330px-Sudan_Meroe_Pyramids_2001.JPG"
-  }
+{
+"id": 1,
+"type": "true_false",
+"question": "Blæksprutter har tre hjerter.",
+"assignedTeam": 1,
+"correctAnswer": true,
+"answer": "Sandt (To hjerter pumper blod til gællerne, mens ét pumper blodet rundt i kroppen)",
+"imageUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?w=800"
+},
+{
+"id": 2,
+"type": "true_false",
+"question": "Bananer vokser på træer.",
+"assignedTeam": 1,
+"correctAnswer": false,
+"answer": "Falsk (Bananplanten er faktisk en kæmpe urt, ikke et træ)",
+"imageUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?w=800"
+},
+{
+"id": 3,
+"type": "true_false",
+"question": "Saturn er den eneste planet i vores solsystem med ringe.",
+"assignedTeam": 1,
+"correctAnswer": false,
+"answer": "Falsk (Flere planeter har ringe, men Saturns er klart de mest synlige)",
+"imageUrl": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800"
+},
+{
+"id": 4,
+"type": "true_false",
+"question": "Koalaer har fingeraftryk, der kan ligne menneskers.",
+"assignedTeam": 1,
+"correctAnswer": true,
+"answer": "Sandt (Deres fingeraftryk kan være overraskende menneskelignende)",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/960px-Koala_climbing_tree.jpg"
+},
+{
+"id": 5,
+"type": "true_false",
+"question": "Salt kan få vand til at koge ved en lavere temperatur.",
+"assignedTeam": 1,
+"correctAnswer": false,
+"answer": "Falsk (Salt hæver faktisk vandets kogepunkt en lille smule)",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Table_salt_with_salt_shaker_V1.jpg/330px-Table_salt_with_salt_shaker_V1.jpg"
+},
+{
+"id": 6,
+"type": "true_false",
+"question": "Hajer eksisterede før træer.",
+"assignedTeam": 1,
+"correctAnswer": true,
+"answer": "Sandt (De første hajlignende dyr fandtes millioner af år før de første træer)",
+"imageUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?w=800"
+},
+{
+"id": 7,
+"type": "true_false",
+"question": "Honning kan holde sig spiselig i ekstremt lang tid, hvis den opbevares korrekt.",
+"assignedTeam": 2,
+"correctAnswer": true,
+"answer": "Sandt (Honning har meget lavt vandindhold og er naturligt konserverende)",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/960px-Runny_hunny.jpg"
+},
+{
+"id": 8,
+"type": "true_false",
+"question": "Alle pingviner lever på Antarktis.",
+"assignedTeam": 2,
+"correctAnswer": false,
+"answer": "Falsk (Pingviner lever flere steder på den sydlige halvkugle)",
+"imageUrl": "https://images.unsplash.com/photo-1598439210625-5067c578f3f6?w=800"
+},
+{
+"id": 9,
+"type": "true_false",
+"question": "Mennesker kan genkende flere tusinde forskellige lugte.",
+"assignedTeam": 2,
+"correctAnswer": true,
+"answer": "Sandt (Lugtesansen kan skelne mellem et meget stort antal forskellige dufte)",
+"imageUrl": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800"
+},
+{
+"id": 10,
+"type": "true_false",
+"question": "Afrika er mindre end Europa.",
+"assignedTeam": 2,
+"correctAnswer": false,
+"answer": "Falsk (Afrika er mere end tre gange så stort som Europa)",
+"imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800"
+},
+{
+"id": 11,
+"type": "true_false",
+"question": "Gulerødder var oprindeligt oftest lilla.",
+"assignedTeam": 2,
+"correctAnswer": true,
+"answer": "Sandt (Lilla gulerødder var almindelige før de orange sorter blev udbredt)",
+"imageUrl": "https://images.unsplash.com/photo-1447175008436-054170c2e979?w=800"
+},
+{
+"id": 12,
+"type": "true_false",
+"question": "En giraf kan gå længere uden vand end en kamel.",
+"assignedTeam": 2,
+"correctAnswer": true,
+"answer": "Sandt (Giraffer kan klare lange perioder uden direkte adgang til vand)",
+"imageUrl": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=800"
+},
+{
+"id": 13,
+"type": "true_false",
+"question": "Varmt vand kan i nogle situationer fryse hurtigere end koldt vand.",
+"assignedTeam": 3,
+"correctAnswer": true,
+"answer": "Sandt (Det kaldes Mpemba-effekten)",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ice_cubes_openphoto.jpg"
+},
+{
+"id": 14,
+"type": "true_false",
+"question": "Elefanter er de eneste dyr, der ikke kan hoppe.",
+"assignedTeam": 3,
+"correctAnswer": false,
+"answer": "Falsk (Flere dyr kan ikke hoppe, blandt andet flodheste)",
+"imageUrl": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800"
+},
+{
+"id": 15,
+"type": "true_false",
+"question": "Hvid chokolade indeholder ikke kakaomasse.",
+"assignedTeam": 3,
+"correctAnswer": true,
+"answer": "Sandt (Den indeholder kakaosmør, men ikke den mørke kakaomasse)",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chopped_white_chocolate_chunks.jpg"
+},
+{
+"id": 16,
+"type": "true_false",
+"question": "Et døgn på Venus er længere end et år på Venus.",
+"assignedTeam": 3,
+"correctAnswer": true,
+"answer": "Sandt (Venus roterer ekstremt langsomt om sin egen akse)",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Venus-real_color.jpg/800px-Venus-real_color.jpg"
+},
+{
+"id": 17,
+"type": "true_false",
+"question": "Ugler kan dreje hovedet 360 grader.",
+"assignedTeam": 3,
+"correctAnswer": false,
+"answer": "Falsk (De kan dreje det omkring 270 grader)",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Bubo_bubo_sibiricus_-01.JPG/960px-Bubo_bubo_sibiricus-01.JPG"
+},
+{
+"id": 18,
+"type": "true_false",
+"question": "Bier kan genkende menneskeansigter.",
+"assignedTeam": 3,
+"correctAnswer": true,
+"answer": "Sandt (Bier kan lære at genkende simple ansigtsmønstre)",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Tetragonula_carbonaria%2814521993792%29.jpg/960px-Tetragonula_carbonaria_%2814521993792%29.jpg"
+},
+{
+"id": 19,
+"type": "true_false",
+"question": "Hjernen kan ikke selv føle smerte.",
+"assignedTeam": 4,
+"correctAnswer": true,
+"answer": "Sandt (Selve hjernevævet har ikke smertereceptorer)",
+"imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800"
+},
+{
+"id": 20,
+"type": "true_false",
+"question": "Ananas vokser på træer.",
+"assignedTeam": 4,
+"correctAnswer": false,
+"answer": "Falsk (Ananas vokser som en plante tæt ved jorden)",
+"imageUrl": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?w=800"
+},
+{
+"id": 21,
+"type": "true_false",
+"question": "Flamingoer er naturally lyserøde.",
+"assignedTeam": 4,
+"correctAnswer": false,
+"answer": "Falsk (Farven kommer fra pigmenter i deres føde)",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Flamingos_Laguna_Colorada.jpg/960px-Flamingos_Laguna_Colorada.jpg"
+},
+{
+"id": 22,
+"type": "true_false",
+"question": "Koffein findes naturally i kaffe, te og kakao.",
+"assignedTeam": 4,
+"correctAnswer": true,
+"answer": "Sandt (Alle tre indeholder koffein naturally)",
+"imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800"
+},
+{
+"id": 23,
+"type": "true_false",
+"question": "Stillehavet er større end alle verdens kontinenter tilsammen.",
+"assignedTeam": 4,
+"correctAnswer": true,
+"answer": "Sandt (Stillehavet dækker et enormt areal)",
+"imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+},
+{
+"id": 24,
+"type": "true_false",
+"question": "En snegl kan overleve at blive skåret over på midten.",
+"assignedTeam": 4,
+"correctAnswer": false,
+"answer": "Falsk (Nogle snegle kan regenerere kropsdele, men ikke overleve at blive skåret i to)",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Snail.jpg/960px-Snail.jpg"
+},
+{
+"id": 25,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "IcrbM1l_BoI",
+"answer": "Avicii - Wake Me Up"
+},
+{
+"id": 26,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "XEjLoHdbVeE",
+"answer": "ABBA - Gimme! Gimme! Gimme!"
+},
+{
+"id": 27,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "SHuWj6ycquQ",
+"answer": "Medina - Kun for mig"
+},
+{
+"id": 28,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "yVLRhZiZ5Wc",
+"answer": "The Killers - Mr. Brightside"
+},
+{
+"id": 29,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "5io69gNOTPk",
+"answer": "Rihanna - Umbrella"
+},
+{
+"id": 30,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "UxP58lcgvvc",
+"answer": "TV-2 - De første kærester på månen"
+},
+{
+"id": 31,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "LOZuxwVk7TU",
+"answer": "Britney Spears - Toxic"
+},
+{
+"id": 32,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "LHCob76kigA",
+"answer": "Lukas Graham - 7 Years"
+},
+{
+"id": 33,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "6M6samPEMpM",
+"answer": "Backstreet Boys - Everybody"
+},
+{
+"id": 34,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "ezFsAWK_HF8",
+"answer": "Tobias Rahim - Mucki Bar"
+},
+{
+"id": 35,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "lDK9QqIzhwk",
+"answer": "Bon Jovi - Livin' on a Prayer"
+},
+{
+"id": 36,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "WUcXQ--yGWQ",
+"answer": "MØ - Final Song"
+},
+{
+"id": 37,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "4NRXx6U8ABQ",
+"answer": "The Weeknd - Blinding Lights"
+},
+{
+"id": 38,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "ZyhrYis509A",
+"answer": "Aqua - Barbie Girl"
+},
+{
+"id": 39,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "HgzGwKwLmgM",
+"answer": "Queen - Don't Stop Me Now"
+},
+{
+"id": 40,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "V324KhfzQ7M",
+"answer": "Thomas Helmig - Malaga"
+},
+{
+"id": 41,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "bESGLojNYSo",
+"answer": "Lady Gaga - Poker Face"
+},
+{
+"id": 42,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "YPV8LqSRSDg",
+"answer": "Nik & Jay - Hot!"
+},
+{
+"id": 43,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "dvgZkm1xWPE",
+"answer": "Coldplay - Viva La Vida"
+},
+{
+"id": 44,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "ZJL4UGSbeFg",
+"answer": "Shania Twain - Man! I Feel Like a Woman!"
+},
+{
+"id": 45,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "OlXY0AJBtio",
+"answer": "Kim Larsen - Papirsklip"
+},
+{
+"id": 46,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "TUVcZfQe-Kw",
+"answer": "Dua Lipa - Levitating"
+},
+{
+"id": 47,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "QFtnV6pMqvA",
+"answer": "Rasmus Seebach - Natteravn"
+},
+{
+"id": 48,
+"type": "song",
+"question": "Hvad er titlen og kunstneren på denne sang?",
+"youtubeId": "eH3giaIzONA",
+"answer": "Whitney Houston - I Wanna Dance with Somebody"
+},
+{
+"id": 49,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/1x3_grey_Lego_brick.jpg/330px-1x3_grey_Lego_brick.jpg",
+"answer": "LEGO-klods"
+},
+{
+"id": 50,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mickey_Mouse_%28poster_version%29.svg/960px-Mickey_Mouse_%28poster_version%29.svg.png",
+"answer": "Mickey Mouse"
+},
+{
+"id": 51,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=800",
+"answer": "Coca-Cola"
+},
+{
+"id": 52,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?w=800",
+"answer": "Eiffeltårnet"
+},
+{
+"id": 53,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Daniel_Radcliffe_as_Harry_Potter.jpg",
+"answer": "Harry Potter"
+},
+{
+"id": 54,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Toblerone_3362.jpg/960px-Toblerone_3362.jpg",
+"answer": "Toblerone"
+},
+{
+"id": 55,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/960px-Flag_of_Denmark.svg.png",
+"answer": "Dannebrog"
+},
+{
+"id": 56,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg",
+"answer": "Rubiks Cube"
+},
+{
+"id": 57,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=800",
+"answer": "iPhone"
+},
+{
+"id": 58,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+"answer": "McDonald's"
+},
+{
+"id": 59,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Golfball.jpg/960px-Golfball.jpg",
+"answer": "Golfbold"
+},
+{
+"id": 60,
+"type": "zoom",
+"question": "Hvad er der afbilledet på dette zoomebillede?",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Oreo-Two-Cookies.png/960px-Oreo-Two-Cookies.png",
+"answer": "Oreo"
+},
+{
+"id": 61,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_titanic.jpg",
+"answer": "Titanic"
+},
+{
+"id": 62,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_olsen_banden.jpg",
+"answer": "Olsen-banden"
+},
+{
+"id": 63,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_grease.jpg",
+"answer": "Grease"
+},
+{
+"id": 64,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_jurassic_park.jpg",
+"answer": "Jurassic Park"
+},
+{
+"id": 65,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_home_alone.jpg",
+"answer": "Alene hjemme"
+},
+{
+"id": 66,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_bridget_jones.jpg",
+"answer": "Bridget Jones's Diary"
+},
+{
+"id": 67,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_charlie_chocolate.jpg",
+"answer": "Charlie og chokoladefabrikken"
+},
+{
+"id": 68,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_barbie.jpg",
+"answer": "Barbie"
+},
+{
+"id": 69,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_mamma_mia.jpg",
+"answer": "Mamma Mia!"
+},
+{
+"id": 70,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_pretty_woman.jpg",
+"answer": "Pretty Woman"
+},
+{
+"id": 71,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_kaerlighed_ved_foerste_hik.jpg",
+"answer": "Kærlighed ved første hik"
+},
+{
+"id": 72,
+"type": "buzzer",
+"question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
+"imageUrl": "images/ai_movie_harry_potter_1.jpg",
+"answer": "Harry Potter og De Vises Sten"
+},
+{
+"id": 73,
+"type": "buzzer",
+"question": "Hvad hedder hovedstaden i Australien?",
+"answer": "Canberra",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/960px-Canberra_panorama_from_Mount_Ainslie.jpg"
+},
+{
+"id": 74,
+"type": "buzzer",
+"question": "Hvor mange tænder har et voksent menneske normalt?",
+"answer": "32",
+"imageUrl": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800"
+},
+{
+"id": 75,
+"type": "buzzer",
+"question": "Hvilket grundstof har det kemiske symbol Au?",
+"answer": "Guld",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gold_bars.jpg/800px-Gold_bars.jpg"
+},
+{
+"id": 76,
+"type": "buzzer",
+"question": "Hvem skrev Harry Potter-bøgerne?",
+"answer": "J.K. Rowling",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Harry_Potter_logo.svg/960px-Harry_Potter_logo.svg.png"
+},
+{
+"id": 77,
+"type": "buzzer",
+"question": "Hvilket land er kendt for pyramiderne i Giza?",
+"answer": "Egypten",
+"imageUrl": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?w=800"
+},
+{
+"id": 78,
+"type": "buzzer",
+"question": "Hvilket land har flest indbyggere i verden?",
+"answer": "Indien",
+"imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800"
+},
+{
+"id": 79,
+"type": "buzzer",
+"question": "Hvad hedder den længste flod i Danmark?",
+"answer": "Gudenåen",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Gudenaaen.jpg"
+},
+{
+"id": 80,
+"type": "buzzer",
+"question": "Hvilket land har byen Dubrovnik, som blandt andet blev brugt som location i Game of Thrones?",
+"answer": "Kroatien",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_walls_of_the_fortress_and_View_of_the_old_city.panorama.jpg/960px-The_walls_of_the_fortress_and_View_of_the_old_city.panorama.jpg"
+},
+{
+"id": 81,
+"type": "buzzer",
+"question": "Hvilket år faldt Berlinmuren?",
+"answer": "1989",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/960px-Berlinermauer.jpg"
+},
+{
+"id": 82,
+"type": "buzzer",
+"question": "Hvem malede Skriget?",
+"answer": "Edvard Munch",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/960px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg"
+},
+{
+"id": 83,
+"type": "buzzer",
+"question": "Hvad hedder verdens mindste land?",
+"answer": "Vatikanstaten",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/St_Peter%27s_Square%2C_Vatican_City-April_2007.jpg/800px-St_Peter%27s_Square%2C_Vatican_City-April_2007.jpg"
+},
+{
+"id": 84,
+"type": "buzzer",
+"question": "Hvor mange spillere er der på banen for ét fodboldhold?",
+"answer": "11",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg"
+},
+{
+"id": 85,
+"type": "buzzer",
+"question": "Hvilken planet har det største antal kendte måner?",
+"answer": "Saturn",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/800px-Saturn_during_Equinox.jpg"
+},
+{
+"id": 86,
+"type": "buzzer",
+"question": "Hvad hedder den græske gud for havet?",
+"answer": "Poseidon",
+"imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800"
+},
+{
+"id": 87,
+"type": "buzzer",
+"question": "Hvilket år landede mennesket første gang på Månen?",
+"answer": "1969",
+"imageUrl": "https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?w=800"
+},
+{
+"id": 88,
+"type": "buzzer",
+"question": "Hvilken ø er verdens største, hvis Australien regnes som et kontinent?",
+"answer": "Grønland",
+"imageUrl": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?w=800"
+},
+{
+"id": 89,
+"type": "buzzer",
+"question": "Hvilken italiensk by er kendt for sine kanaler og gondoler?",
+"answer": "Venedig",
+"imageUrl": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=800"
+},
+{
+"id": 90,
+"type": "buzzer",
+"question": "Hvad er verdens største pattedyr?",
+"answer": "Blåhvalen",
+"imageUrl": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=800"
+},
+{
+"id": 91,
+"type": "buzzer",
+"question": "Hvad hedder hovedstaden i Canada?",
+"answer": "Ottawa",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Parliament-Ottawa.jpg/960px-Parliament-Ottawa.jpg"
+},
+{
+"id": 92,
+"type": "buzzer",
+"question": "Hvilket metal er det primære metal i en almindelig sodavandsdåse?",
+"answer": "Aluminium",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Drinking_can_ring-pull_tab.jpg/330px-Drinking_can_ring-pull_tab.jpg"
+},
+{
+"id": 93,
+"type": "buzzer",
+"question": "Hvad kaldes den proces, hvor planter omdanner lysenergi til kemisk energi?",
+"answer": "Fotosyntese",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Green_leaf_with_sunlight.jpg/330px-Green_leaf_with_sunlight.jpg"
+},
+{
+"id": 94,
+"type": "buzzer",
+"question": "Hvilken dansk konge var konge fra 1157 til 1182 og forbindes blandt andet med opførelsen af Valdemarsmuren?",
+"answer": "Valdemar den Store",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bracteate%2C_1157%2C_comemorating_wedding_of_king_Valdemar%28the_Great%29%26_queen_Sophia_%28of_Minsk%29_of_Denmark.jpg/330px-Bracteate%2C_1157%2C_comemorating_wedding_of_king_Valdemar_%28the_Great%29_%26_queen_Sophia_%28of_Minsk%29_of_Denmark.jpg"
+},
+{
+"id": 95,
+"type": "buzzer",
+"question": "I hvilket årti blev internettet gjort offentligt tilgængeligt i sin moderne form?",
+"answer": "1990'erne",
+"imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800"
+},
+{
+"id": 96,
+"type": "buzzer",
+"question": "Hvilket grundstof findes der mest af i universet?",
+"answer": "Brint",
+"imageUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=800"
+},
+{
+"id": 97,
+"type": "buzzer",
+"question": "Hvilket land har verdens længste kystlinje?",
+"answer": "Canada",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Coastline_St_John_Newfoundland_%2841321591262%29.jpg/330px-Coastline_St_John_Newfoundland_%2841321591262%29.jpg"
+},
+{
+"id": 98,
+"type": "buzzer",
+"question": "Hvilken film vandt Oscar for bedste film ved Oscar-uddelingen i 1998?",
+"answer": "Titanic",
+"imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800"
+},
+{
+"id": 99,
+"type": "buzzer",
+"question": "Hvilken planet har en rotation, der varer længere end dens år?",
+"answer": "Venus",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Venus_globe-large.jpg/800px-Venus_globe-large.jpg"
+},
+{
+"id": 100,
+"type": "buzzer",
+"question": "Hvor mange knogler har et voksent menneske normalt?",
+"answer": "206",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Human-Skeleton.jpg/330px-Human-Skeleton.jpg"
+},
+{
+"id": 101,
+"type": "buzzer",
+"question": "Hvilket pattedyr er det eneste, der kan flyve aktivt?",
+"answer": "Flagermus",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Big-eared-townsend-fledermaus.jpg/330px-Big-eared-townsend-fledermaus.jpg"
+},
+{
+"id": 102,
+"type": "buzzer",
+"question": "Hvilket land har flest pyramider i verden?",
+"answer": "Sudan",
+"imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sudan_Meroe_Pyramids_2001.JPG/330px-Sudan_Meroe_Pyramids_2001.JPG"
+}
 ]
