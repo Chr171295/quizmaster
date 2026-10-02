@@ -471,85 +471,85 @@
 "id": 61,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_titanic.jpg",
+"imageUrl": "images/ai_movie_titanic.png",
 "answer": "Titanic"
 },
 {
 "id": 62,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_olsen_banden.jpg",
+"imageUrl": "images/ai_movie_olsen_banden.jpeg",
 "answer": "Olsen-banden"
 },
 {
 "id": 63,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_grease.jpg",
+"imageUrl": "images/ai_movie_grease.jpeg",
 "answer": "Grease"
 },
 {
 "id": 64,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_jurassic_park.jpg",
+"imageUrl": "images/ai_movie_jurassic_park.jpeg",
 "answer": "Jurassic Park"
 },
 {
 "id": 65,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_home_alone.jpg",
+"imageUrl": "images/ai_movie_home_alone.jpeg",
 "answer": "Alene hjemme"
 },
 {
 "id": 66,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_bridget_jones.jpg",
+"imageUrl": "images/ai_movie_bridget_jones.jpeg",
 "answer": "Bridget Jones's Diary"
 },
 {
 "id": 67,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_charlie_chocolate.jpg",
+"imageUrl": "images/ai_movie_charlie_chocolate.jpeg",
 "answer": "Charlie og chokoladefabrikken"
 },
 {
 "id": 68,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_barbie.jpg",
+"imageUrl": "images/ai_movie_barbie.jpeg",
 "answer": "Barbie"
 },
 {
 "id": 69,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_mamma_mia.jpg",
+"imageUrl": "images/ai_movie_mamma_mia.jpeg",
 "answer": "Mamma Mia!"
 },
 {
 "id": 70,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_pretty_woman.jpg",
+"imageUrl": "images/ai_movie_pretty_woman.jpeg",
 "answer": "Pretty Woman"
 },
 {
 "id": 71,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_kaerlighed_ved_foerste_hik.jpg",
+"imageUrl": "images/ai_movie_kaerlighed_ved_foerste_hik.png",
 "answer": "Kærlighed ved første hik"
 },
 {
 "id": 72,
 "type": "buzzer",
 "question": "Hvilken kendt film symboliserer dette AI-genererede billede?",
-"imageUrl": "images/ai_movie_harry_potter_1.jpg",
-"answer": "Harry Potter og De Vises Sten"
+"imageUrl": "images/ai_movie_lord_of_the_rings.png",
+"answer": "Lord of the rings"
 },
 {
 "id": 73,
